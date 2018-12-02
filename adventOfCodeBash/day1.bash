@@ -1,9 +1,15 @@
 #!/bin/bash
-# This was written by reddit.com/u/vypxl as I had to take a peek at other peoples solutions for this one.
+# Part 2 was written by reddit.com/u/vypxl as I had to take a peek at other peoples solutions for this one.
 
-# Part 1 - Just add them together with bc
+# Part 1
 echo "Solution for part 1:"
-cat ../input.txt | xargs | bc
+file="day1.txt"
+sum=0
+while read -r line
+do
+	sum=$((sum + line))
+done < $file
+printf 'Sum: %s\n' "$sum"
 
 # Part 2 - Put all new frequencies into an associative array until a duplicate is encountered
 freq=0
@@ -29,5 +35,5 @@ while true; do
 			seen["$freq"]=1
 		fi
 		iters=$(($iters+1))
-	done < ../input.txt
+	done < day1.txt
 done
