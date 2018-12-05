@@ -1,0 +1,1000 @@
+Thu Mar 11 00:00:00 CET 1518Guard #1163 begins shift
+Thu Mar 11 00:09:00 CET 1518falls asleep
+Thu Mar 11 00:32:00 CET 1518wakes up
+Thu Mar 11 23:56:00 CET 1518Guard #1993 begins shift
+Fri Mar 12 00:20:00 CET 1518falls asleep
+Fri Mar 12 00:24:00 CET 1518wakes up
+Fri Mar 12 00:36:00 CET 1518falls asleep
+Fri Mar 12 00:38:00 CET 1518wakes up
+Fri Mar 12 23:56:00 CET 1518Guard #881 begins shift
+Sat Mar 13 00:09:00 CET 1518falls asleep
+Sat Mar 13 00:15:00 CET 1518wakes up
+Sat Mar 13 00:23:00 CET 1518falls asleep
+Sat Mar 13 00:53:00 CET 1518wakes up
+Sun Mar 14 00:03:00 CET 1518Guard #149 begins shift
+Sun Mar 14 00:30:00 CET 1518falls asleep
+Sun Mar 14 00:39:00 CET 1518wakes up
+Mon Mar 15 00:00:00 CET 1518Guard #563 begins shift
+Tue Mar 16 00:03:00 CET 1518Guard #3083 begins shift
+Tue Mar 16 00:06:00 CET 1518falls asleep
+Tue Mar 16 00:12:00 CET 1518wakes up
+Tue Mar 16 00:25:00 CET 1518falls asleep
+Tue Mar 16 00:59:00 CET 1518wakes up
+Tue Mar 16 23:59:00 CET 1518Guard #2017 begins shift
+Wed Mar 17 00:08:00 CET 1518falls asleep
+Wed Mar 17 00:52:00 CET 1518wakes up
+Wed Mar 17 23:57:00 CET 1518Guard #3089 begins shift
+Thu Mar 18 00:12:00 CET 1518falls asleep
+Thu Mar 18 00:38:00 CET 1518wakes up
+Thu Mar 18 00:43:00 CET 1518falls asleep
+Thu Mar 18 00:46:00 CET 1518wakes up
+Thu Mar 18 23:48:00 CET 1518Guard #3089 begins shift
+Fri Mar 19 00:02:00 CET 1518falls asleep
+Fri Mar 19 00:15:00 CET 1518wakes up
+Fri Mar 19 00:32:00 CET 1518falls asleep
+Fri Mar 19 00:40:00 CET 1518wakes up
+Fri Mar 19 00:47:00 CET 1518falls asleep
+Fri Mar 19 00:57:00 CET 1518wakes up
+Sat Mar 20 00:00:00 CET 1518Guard #1657 begins shift
+Sat Mar 20 00:10:00 CET 1518falls asleep
+Sat Mar 20 00:32:00 CET 1518wakes up
+Sat Mar 20 23:50:00 CET 1518Guard #881 begins shift
+Sun Mar 21 00:05:00 CET 1518falls asleep
+Sun Mar 21 00:31:00 CET 1518wakes up
+Sun Mar 21 00:55:00 CET 1518falls asleep
+Sun Mar 21 00:56:00 CET 1518wakes up
+Mon Mar 22 00:00:00 CET 1518Guard #2027 begins shift
+Mon Mar 22 00:14:00 CET 1518falls asleep
+Mon Mar 22 00:16:00 CET 1518wakes up
+Mon Mar 22 00:25:00 CET 1518falls asleep
+Mon Mar 22 00:45:00 CET 1518wakes up
+Mon Mar 22 00:49:00 CET 1518falls asleep
+Mon Mar 22 00:52:00 CET 1518wakes up
+Mon Mar 22 23:59:00 CET 1518Guard #659 begins shift
+Wed Mar 24 00:03:00 CET 1518Guard #1657 begins shift
+Wed Mar 24 00:18:00 CET 1518falls asleep
+Wed Mar 24 00:29:00 CET 1518wakes up
+Wed Mar 24 00:43:00 CET 1518falls asleep
+Wed Mar 24 00:44:00 CET 1518wakes up
+Wed Mar 24 23:57:00 CET 1518Guard #3011 begins shift
+Thu Mar 25 00:44:00 CET 1518falls asleep
+Thu Mar 25 00:56:00 CET 1518wakes up
+Fri Mar 26 00:03:00 CET 1518Guard #1163 begins shift
+Fri Mar 26 00:13:00 CET 1518falls asleep
+Fri Mar 26 00:44:00 CET 1518wakes up
+Fri Mar 26 23:54:00 CET 1518Guard #3023 begins shift
+Sat Mar 27 00:01:00 CET 1518falls asleep
+Sat Mar 27 00:59:00 CET 1518wakes up
+Sun Mar 28 00:01:00 CET 1518Guard #2927 begins shift
+Sun Mar 28 00:28:00 CET 1518falls asleep
+Sun Mar 28 00:30:00 CET 1518wakes up
+Sun Mar 28 00:51:00 CET 1518falls asleep
+Sun Mar 28 00:56:00 CET 1518wakes up
+Mon Mar 29 00:03:00 CET 1518Guard #2027 begins shift
+Mon Mar 29 00:20:00 CET 1518falls asleep
+Mon Mar 29 00:54:00 CET 1518wakes up
+Mon Mar 29 23:54:00 CET 1518Guard #3023 begins shift
+Tue Mar 30 00:01:00 CET 1518falls asleep
+Tue Mar 30 00:27:00 CET 1518wakes up
+Tue Mar 30 00:46:00 CET 1518falls asleep
+Tue Mar 30 00:54:00 CET 1518wakes up
+Wed Mar 31 00:00:00 CET 1518Guard #743 begins shift
+Wed Mar 31 00:34:00 CET 1518falls asleep
+Wed Mar 31 00:36:00 CET 1518wakes up
+Wed Mar 31 00:42:00 CET 1518falls asleep
+Wed Mar 31 00:56:00 CET 1518wakes up
+Thu Apr 01 00:03:00 CET 1518Guard #2719 begins shift
+Thu Apr 01 00:07:00 CET 1518falls asleep
+Thu Apr 01 00:54:00 CET 1518wakes up
+Fri Apr 02 00:02:00 CET 1518Guard #2857 begins shift
+Fri Apr 02 00:28:00 CET 1518falls asleep
+Fri Apr 02 00:40:00 CET 1518wakes up
+Fri Apr 02 00:47:00 CET 1518falls asleep
+Fri Apr 02 00:56:00 CET 1518wakes up
+Sat Apr 03 00:04:00 CET 1518Guard #2843 begins shift
+Sat Apr 03 00:13:00 CET 1518falls asleep
+Sat Apr 03 00:35:00 CET 1518wakes up
+Sat Apr 03 00:45:00 CET 1518falls asleep
+Sat Apr 03 00:50:00 CET 1518wakes up
+Sat Apr 03 23:59:00 CET 1518Guard #3011 begins shift
+Sun Apr 04 00:18:00 CET 1518falls asleep
+Sun Apr 04 00:36:00 CET 1518wakes up
+Sun Apr 04 00:46:00 CET 1518falls asleep
+Sun Apr 04 00:57:00 CET 1518wakes up
+Mon Apr 05 00:02:00 CET 1518Guard #3011 begins shift
+Mon Apr 05 00:26:00 CET 1518falls asleep
+Mon Apr 05 00:44:00 CET 1518wakes up
+Tue Apr 06 00:02:00 CET 1518Guard #1163 begins shift
+Tue Apr 06 00:10:00 CET 1518falls asleep
+Tue Apr 06 00:49:00 CET 1518wakes up
+Wed Apr 07 00:04:00 CET 1518Guard #2843 begins shift
+Wed Apr 07 00:46:00 CET 1518falls asleep
+Wed Apr 07 00:50:00 CET 1518wakes up
+Wed Apr 07 00:54:00 CET 1518falls asleep
+Wed Apr 07 00:58:00 CET 1518wakes up
+Wed Apr 07 23:57:00 CET 1518Guard #1163 begins shift
+Thu Apr 08 00:17:00 CET 1518falls asleep
+Thu Apr 08 00:33:00 CET 1518wakes up
+Thu Apr 08 23:58:00 CET 1518Guard #3119 begins shift
+Fri Apr 09 00:18:00 CET 1518falls asleep
+Fri Apr 09 00:56:00 CET 1518wakes up
+Fri Apr 09 23:50:00 CET 1518Guard #653 begins shift
+Sat Apr 10 00:05:00 CET 1518falls asleep
+Sat Apr 10 00:34:00 CET 1518wakes up
+Sat Apr 10 00:56:00 CET 1518falls asleep
+Sat Apr 10 00:59:00 CET 1518wakes up
+Sun Apr 11 00:04:00 CET 1518Guard #2719 begins shift
+Sun Apr 11 00:33:00 CET 1518falls asleep
+Sun Apr 11 00:38:00 CET 1518wakes up
+Mon Apr 12 00:01:00 CET 1518Guard #2927 begins shift
+Mon Apr 12 00:26:00 CET 1518falls asleep
+Mon Apr 12 00:45:00 CET 1518wakes up
+Mon Apr 12 00:48:00 CET 1518falls asleep
+Mon Apr 12 00:57:00 CET 1518wakes up
+Tue Apr 13 00:00:00 CET 1518Guard #2719 begins shift
+Tue Apr 13 00:31:00 CET 1518falls asleep
+Tue Apr 13 00:45:00 CET 1518wakes up
+Tue Apr 13 23:49:00 CET 1518Guard #1013 begins shift
+Wed Apr 14 00:02:00 CET 1518falls asleep
+Wed Apr 14 00:06:00 CET 1518wakes up
+Wed Apr 14 00:22:00 CET 1518falls asleep
+Wed Apr 14 00:29:00 CET 1518wakes up
+Wed Apr 14 00:54:00 CET 1518falls asleep
+Wed Apr 14 00:55:00 CET 1518wakes up
+Wed Apr 14 23:54:00 CET 1518Guard #2857 begins shift
+Thu Apr 15 00:02:00 CET 1518falls asleep
+Thu Apr 15 00:33:00 CET 1518wakes up
+Thu Apr 15 00:38:00 CET 1518falls asleep
+Thu Apr 15 00:52:00 CET 1518wakes up
+Thu Apr 15 00:55:00 CET 1518falls asleep
+Thu Apr 15 00:57:00 CET 1518wakes up
+Thu Apr 15 23:56:00 CET 1518Guard #3119 begins shift
+Fri Apr 16 00:09:00 CET 1518falls asleep
+Fri Apr 16 00:38:00 CET 1518wakes up
+Fri Apr 16 00:43:00 CET 1518falls asleep
+Fri Apr 16 00:51:00 CET 1518wakes up
+Sat Apr 17 00:02:00 CET 1518Guard #1013 begins shift
+Sat Apr 17 00:21:00 CET 1518falls asleep
+Sat Apr 17 00:48:00 CET 1518wakes up
+Sun Apr 18 00:00:00 CET 1518Guard #3083 begins shift
+Sun Apr 18 00:13:00 CET 1518falls asleep
+Sun Apr 18 00:30:00 CET 1518wakes up
+Mon Apr 19 00:03:00 CET 1518Guard #2719 begins shift
+Mon Apr 19 00:31:00 CET 1518falls asleep
+Mon Apr 19 00:50:00 CET 1518wakes up
+Mon Apr 19 23:56:00 CET 1518Guard #1657 begins shift
+Tue Apr 20 00:26:00 CET 1518falls asleep
+Tue Apr 20 00:41:00 CET 1518wakes up
+Wed Apr 21 00:03:00 CET 1518Guard #881 begins shift
+Wed Apr 21 00:41:00 CET 1518falls asleep
+Wed Apr 21 00:58:00 CET 1518wakes up
+Wed Apr 21 23:46:00 CET 1518Guard #2843 begins shift
+Thu Apr 22 00:00:00 CET 1518falls asleep
+Thu Apr 22 00:33:00 CET 1518wakes up
+Thu Apr 22 23:58:00 CET 1518Guard #1657 begins shift
+Fri Apr 23 00:26:00 CET 1518falls asleep
+Fri Apr 23 00:28:00 CET 1518wakes up
+Fri Apr 23 00:44:00 CET 1518falls asleep
+Fri Apr 23 00:48:00 CET 1518wakes up
+Sat Apr 24 00:01:00 CET 1518Guard #2719 begins shift
+Sat Apr 24 00:29:00 CET 1518falls asleep
+Sat Apr 24 00:58:00 CET 1518wakes up
+Sat Apr 24 23:58:00 CET 1518Guard #3011 begins shift
+Sun Apr 25 00:46:00 CET 1518falls asleep
+Sun Apr 25 00:59:00 CET 1518wakes up
+Mon Apr 26 00:00:00 CET 1518Guard #3083 begins shift
+Mon Apr 26 00:40:00 CET 1518falls asleep
+Mon Apr 26 00:49:00 CET 1518wakes up
+Tue Apr 27 00:00:00 CET 1518Guard #743 begins shift
+Tue Apr 27 00:26:00 CET 1518falls asleep
+Tue Apr 27 00:51:00 CET 1518wakes up
+Wed Apr 28 00:02:00 CET 1518Guard #149 begins shift
+Wed Apr 28 00:06:00 CET 1518falls asleep
+Wed Apr 28 00:22:00 CET 1518wakes up
+Wed Apr 28 00:48:00 CET 1518falls asleep
+Wed Apr 28 00:52:00 CET 1518wakes up
+Wed Apr 28 23:57:00 CET 1518Guard #3083 begins shift
+Thu Apr 29 00:08:00 CET 1518falls asleep
+Thu Apr 29 00:19:00 CET 1518wakes up
+Thu Apr 29 00:22:00 CET 1518falls asleep
+Thu Apr 29 00:57:00 CET 1518wakes up
+Thu Apr 29 23:58:00 CET 1518Guard #2843 begins shift
+Fri Apr 30 00:15:00 CET 1518falls asleep
+Fri Apr 30 00:52:00 CET 1518wakes up
+Sat May 01 00:04:00 CET 1518Guard #653 begins shift
+Sat May 01 00:25:00 CET 1518falls asleep
+Sat May 01 00:38:00 CET 1518wakes up
+Sat May 01 00:47:00 CET 1518falls asleep
+Sat May 01 00:50:00 CET 1518wakes up
+Sun May 02 00:03:00 CET 1518Guard #149 begins shift
+Sun May 02 00:12:00 CET 1518falls asleep
+Sun May 02 00:56:00 CET 1518wakes up
+Mon May 03 00:00:00 CET 1518Guard #2857 begins shift
+Mon May 03 00:12:00 CET 1518falls asleep
+Mon May 03 00:16:00 CET 1518wakes up
+Mon May 03 00:25:00 CET 1518falls asleep
+Mon May 03 00:46:00 CET 1518wakes up
+Mon May 03 00:57:00 CET 1518falls asleep
+Mon May 03 00:58:00 CET 1518wakes up
+Mon May 03 23:57:00 CET 1518Guard #2719 begins shift
+Tue May 04 00:36:00 CET 1518falls asleep
+Tue May 04 00:41:00 CET 1518wakes up
+Tue May 04 00:44:00 CET 1518falls asleep
+Tue May 04 00:51:00 CET 1518wakes up
+Tue May 04 00:54:00 CET 1518falls asleep
+Tue May 04 00:56:00 CET 1518wakes up
+Wed May 05 00:03:00 CET 1518Guard #2027 begins shift
+Wed May 05 00:11:00 CET 1518falls asleep
+Wed May 05 00:33:00 CET 1518wakes up
+Wed May 05 00:45:00 CET 1518falls asleep
+Wed May 05 00:56:00 CET 1518wakes up
+Thu May 06 00:03:00 CET 1518Guard #3361 begins shift
+Thu May 06 00:23:00 CET 1518falls asleep
+Thu May 06 00:39:00 CET 1518wakes up
+Thu May 06 23:59:00 CET 1518Guard #2719 begins shift
+Fri May 07 00:17:00 CET 1518falls asleep
+Fri May 07 00:55:00 CET 1518wakes up
+Sat May 08 00:02:00 CET 1518Guard #2719 begins shift
+Sat May 08 00:30:00 CET 1518falls asleep
+Sat May 08 00:37:00 CET 1518wakes up
+Sun May 09 00:02:00 CET 1518Guard #3011 begins shift
+Sun May 09 00:19:00 CET 1518falls asleep
+Sun May 09 00:35:00 CET 1518wakes up
+Sun May 09 23:57:00 CET 1518Guard #2027 begins shift
+Mon May 10 00:14:00 CET 1518falls asleep
+Mon May 10 00:58:00 CET 1518wakes up
+Tue May 11 00:04:00 CET 1518Guard #2927 begins shift
+Tue May 11 00:21:00 CET 1518falls asleep
+Tue May 11 00:47:00 CET 1518wakes up
+Tue May 11 00:52:00 CET 1518falls asleep
+Tue May 11 00:54:00 CET 1518wakes up
+Wed May 12 00:01:00 CET 1518Guard #3089 begins shift
+Wed May 12 00:22:00 CET 1518falls asleep
+Wed May 12 00:28:00 CET 1518wakes up
+Wed May 12 00:49:00 CET 1518falls asleep
+Wed May 12 00:55:00 CET 1518wakes up
+Wed May 12 23:52:00 CET 1518Guard #3361 begins shift
+Thu May 13 00:00:00 CET 1518falls asleep
+Thu May 13 00:27:00 CET 1518wakes up
+Thu May 13 00:36:00 CET 1518falls asleep
+Thu May 13 00:39:00 CET 1518wakes up
+Thu May 13 23:56:00 CET 1518Guard #3011 begins shift
+Fri May 14 00:29:00 CET 1518falls asleep
+Fri May 14 00:57:00 CET 1518wakes up
+Fri May 14 23:59:00 CET 1518Guard #1013 begins shift
+Sat May 15 00:35:00 CET 1518falls asleep
+Sat May 15 00:56:00 CET 1518wakes up
+Sun May 16 00:00:00 CET 1518Guard #1993 begins shift
+Sun May 16 00:07:00 CET 1518falls asleep
+Sun May 16 00:22:00 CET 1518wakes up
+Sun May 16 00:41:00 CET 1518falls asleep
+Sun May 16 00:46:00 CET 1518wakes up
+Mon May 17 00:03:00 CET 1518Guard #1657 begins shift
+Mon May 17 00:10:00 CET 1518falls asleep
+Mon May 17 00:32:00 CET 1518wakes up
+Mon May 17 00:38:00 CET 1518falls asleep
+Mon May 17 00:54:00 CET 1518wakes up
+Mon May 17 23:57:00 CET 1518Guard #3119 begins shift
+Tue May 18 00:52:00 CET 1518falls asleep
+Tue May 18 00:53:00 CET 1518wakes up
+Tue May 18 23:56:00 CET 1518Guard #2017 begins shift
+Wed May 19 00:09:00 CET 1518falls asleep
+Wed May 19 00:28:00 CET 1518wakes up
+Wed May 19 00:53:00 CET 1518falls asleep
+Wed May 19 00:57:00 CET 1518wakes up
+Thu May 20 00:00:00 CET 1518Guard #743 begins shift
+Thu May 20 00:23:00 CET 1518falls asleep
+Thu May 20 00:38:00 CET 1518wakes up
+Fri May 21 00:00:00 CET 1518Guard #3023 begins shift
+Fri May 21 00:26:00 CET 1518falls asleep
+Fri May 21 00:32:00 CET 1518wakes up
+Fri May 21 00:38:00 CET 1518falls asleep
+Fri May 21 00:57:00 CET 1518wakes up
+Sat May 22 00:02:00 CET 1518Guard #881 begins shift
+Sat May 22 00:34:00 CET 1518falls asleep
+Sat May 22 00:47:00 CET 1518wakes up
+Sat May 22 00:55:00 CET 1518falls asleep
+Sat May 22 00:56:00 CET 1518wakes up
+Sun May 23 00:01:00 CET 1518Guard #2027 begins shift
+Sun May 23 00:06:00 CET 1518falls asleep
+Sun May 23 00:25:00 CET 1518wakes up
+Sun May 23 23:59:00 CET 1518Guard #3083 begins shift
+Mon May 24 00:29:00 CET 1518falls asleep
+Mon May 24 00:59:00 CET 1518wakes up
+Tue May 25 00:00:00 CET 1518Guard #3023 begins shift
+Tue May 25 00:41:00 CET 1518falls asleep
+Tue May 25 00:48:00 CET 1518wakes up
+Tue May 25 23:50:00 CET 1518Guard #1013 begins shift
+Wed May 26 00:01:00 CET 1518falls asleep
+Wed May 26 00:34:00 CET 1518wakes up
+Wed May 26 00:42:00 CET 1518falls asleep
+Wed May 26 00:47:00 CET 1518wakes up
+Wed May 26 00:50:00 CET 1518falls asleep
+Wed May 26 00:53:00 CET 1518wakes up
+Thu May 27 00:04:00 CET 1518Guard #653 begins shift
+Thu May 27 00:29:00 CET 1518falls asleep
+Thu May 27 00:52:00 CET 1518wakes up
+Fri May 28 00:02:00 CET 1518Guard #2719 begins shift
+Fri May 28 00:07:00 CET 1518falls asleep
+Fri May 28 00:46:00 CET 1518wakes up
+Sat May 29 00:04:00 CET 1518Guard #2719 begins shift
+Sat May 29 00:28:00 CET 1518falls asleep
+Sat May 29 00:55:00 CET 1518wakes up
+Sun May 30 00:01:00 CET 1518Guard #743 begins shift
+Sun May 30 00:16:00 CET 1518falls asleep
+Sun May 30 00:59:00 CET 1518wakes up
+Sun May 30 23:56:00 CET 1518Guard #2857 begins shift
+Mon May 31 00:09:00 CET 1518falls asleep
+Mon May 31 00:11:00 CET 1518wakes up
+Mon May 31 00:35:00 CET 1518falls asleep
+Mon May 31 00:46:00 CET 1518wakes up
+Tue Jun 01 00:00:00 CET 1518Guard #2857 begins shift
+Tue Jun 01 00:30:00 CET 1518falls asleep
+Tue Jun 01 00:58:00 CET 1518wakes up
+Wed Jun 02 00:04:00 CET 1518Guard #743 begins shift
+Wed Jun 02 00:28:00 CET 1518falls asleep
+Wed Jun 02 00:44:00 CET 1518wakes up
+Wed Jun 02 23:56:00 CET 1518Guard #3011 begins shift
+Thu Jun 03 00:43:00 CET 1518falls asleep
+Thu Jun 03 00:56:00 CET 1518wakes up
+Thu Jun 03 23:52:00 CET 1518Guard #1993 begins shift
+Fri Jun 04 00:03:00 CET 1518falls asleep
+Fri Jun 04 00:38:00 CET 1518wakes up
+Fri Jun 04 23:59:00 CET 1518Guard #149 begins shift
+Sat Jun 05 00:39:00 CET 1518falls asleep
+Sat Jun 05 00:42:00 CET 1518wakes up
+Sat Jun 05 00:45:00 CET 1518falls asleep
+Sat Jun 05 00:49:00 CET 1518wakes up
+Sat Jun 05 23:57:00 CET 1518Guard #1993 begins shift
+Sun Jun 06 00:38:00 CET 1518falls asleep
+Sun Jun 06 00:54:00 CET 1518wakes up
+Sun Jun 06 23:50:00 CET 1518Guard #1657 begins shift
+Mon Jun 07 00:01:00 CET 1518falls asleep
+Mon Jun 07 00:08:00 CET 1518wakes up
+Mon Jun 07 00:22:00 CET 1518falls asleep
+Mon Jun 07 00:50:00 CET 1518wakes up
+Mon Jun 07 23:56:00 CET 1518Guard #1163 begins shift
+Tue Jun 08 00:25:00 CET 1518falls asleep
+Tue Jun 08 00:29:00 CET 1518wakes up
+Tue Jun 08 00:53:00 CET 1518falls asleep
+Tue Jun 08 00:59:00 CET 1518wakes up
+Wed Jun 09 00:00:00 CET 1518Guard #563 begins shift
+Thu Jun 10 00:00:00 CET 1518Guard #563 begins shift
+Fri Jun 11 00:00:00 CET 1518Guard #2027 begins shift
+Fri Jun 11 00:08:00 CET 1518falls asleep
+Fri Jun 11 00:54:00 CET 1518wakes up
+Fri Jun 11 23:58:00 CET 1518Guard #2857 begins shift
+Sat Jun 12 00:16:00 CET 1518falls asleep
+Sat Jun 12 00:59:00 CET 1518wakes up
+Sun Jun 13 00:00:00 CET 1518Guard #2927 begins shift
+Sun Jun 13 00:49:00 CET 1518falls asleep
+Sun Jun 13 00:54:00 CET 1518wakes up
+Sun Jun 13 23:59:00 CET 1518Guard #3023 begins shift
+Mon Jun 14 00:54:00 CET 1518falls asleep
+Mon Jun 14 00:58:00 CET 1518wakes up
+Mon Jun 14 23:57:00 CET 1518Guard #1163 begins shift
+Tue Jun 15 00:25:00 CET 1518falls asleep
+Tue Jun 15 00:49:00 CET 1518wakes up
+Tue Jun 15 00:56:00 CET 1518falls asleep
+Tue Jun 15 00:57:00 CET 1518wakes up
+Wed Jun 16 00:00:00 CET 1518Guard #3089 begins shift
+Wed Jun 16 00:14:00 CET 1518falls asleep
+Wed Jun 16 00:51:00 CET 1518wakes up
+Wed Jun 16 23:53:00 CET 1518Guard #149 begins shift
+Thu Jun 17 00:05:00 CET 1518falls asleep
+Thu Jun 17 00:18:00 CET 1518wakes up
+Thu Jun 17 00:32:00 CET 1518falls asleep
+Thu Jun 17 00:40:00 CET 1518wakes up
+Thu Jun 17 23:59:00 CET 1518Guard #1013 begins shift
+Fri Jun 18 00:26:00 CET 1518falls asleep
+Fri Jun 18 00:28:00 CET 1518wakes up
+Fri Jun 18 00:36:00 CET 1518falls asleep
+Fri Jun 18 00:48:00 CET 1518wakes up
+Fri Jun 18 23:54:00 CET 1518Guard #3361 begins shift
+Sat Jun 19 00:04:00 CET 1518falls asleep
+Sat Jun 19 00:05:00 CET 1518wakes up
+Sat Jun 19 00:08:00 CET 1518falls asleep
+Sat Jun 19 00:15:00 CET 1518wakes up
+Sat Jun 19 00:23:00 CET 1518falls asleep
+Sat Jun 19 00:32:00 CET 1518wakes up
+Sat Jun 19 23:52:00 CET 1518Guard #2927 begins shift
+Sun Jun 20 00:01:00 CET 1518falls asleep
+Sun Jun 20 00:38:00 CET 1518wakes up
+Sun Jun 20 00:43:00 CET 1518falls asleep
+Sun Jun 20 00:50:00 CET 1518wakes up
+Mon Jun 21 00:00:00 CET 1518Guard #881 begins shift
+Mon Jun 21 00:30:00 CET 1518falls asleep
+Mon Jun 21 00:49:00 CET 1518wakes up
+Mon Jun 21 00:55:00 CET 1518falls asleep
+Mon Jun 21 00:57:00 CET 1518wakes up
+Tue Jun 22 00:02:00 CET 1518Guard #2027 begins shift
+Tue Jun 22 00:23:00 CET 1518falls asleep
+Tue Jun 22 00:28:00 CET 1518wakes up
+Tue Jun 22 00:43:00 CET 1518falls asleep
+Tue Jun 22 00:45:00 CET 1518wakes up
+Tue Jun 22 23:54:00 CET 1518Guard #2843 begins shift
+Wed Jun 23 00:00:00 CET 1518falls asleep
+Wed Jun 23 00:38:00 CET 1518wakes up
+Wed Jun 23 23:56:00 CET 1518Guard #3089 begins shift
+Thu Jun 24 00:18:00 CET 1518falls asleep
+Thu Jun 24 00:40:00 CET 1518wakes up
+Thu Jun 24 00:57:00 CET 1518falls asleep
+Thu Jun 24 00:58:00 CET 1518wakes up
+Thu Jun 24 23:56:00 CET 1518Guard #2719 begins shift
+Fri Jun 25 00:36:00 CET 1518falls asleep
+Fri Jun 25 00:39:00 CET 1518wakes up
+Sat Jun 26 00:00:00 CET 1518Guard #2927 begins shift
+Sat Jun 26 00:20:00 CET 1518falls asleep
+Sat Jun 26 00:49:00 CET 1518wakes up
+Sat Jun 26 00:52:00 CET 1518falls asleep
+Sat Jun 26 00:54:00 CET 1518wakes up
+Sat Jun 26 23:48:00 CET 1518Guard #3023 begins shift
+Sun Jun 27 00:01:00 CET 1518falls asleep
+Sun Jun 27 00:20:00 CET 1518wakes up
+Sun Jun 27 00:33:00 CET 1518falls asleep
+Sun Jun 27 00:34:00 CET 1518wakes up
+Mon Jun 28 00:00:00 CET 1518Guard #3011 begins shift
+Mon Jun 28 00:14:00 CET 1518falls asleep
+Mon Jun 28 00:46:00 CET 1518wakes up
+Tue Jun 29 00:00:00 CET 1518Guard #2017 begins shift
+Tue Jun 29 00:48:00 CET 1518falls asleep
+Tue Jun 29 00:56:00 CET 1518wakes up
+Wed Jun 30 00:04:00 CET 1518Guard #1657 begins shift
+Wed Jun 30 00:19:00 CET 1518falls asleep
+Wed Jun 30 00:38:00 CET 1518wakes up
+Wed Jun 30 00:49:00 CET 1518falls asleep
+Wed Jun 30 00:54:00 CET 1518wakes up
+Thu Jul 01 00:00:00 CET 1518Guard #2017 begins shift
+Thu Jul 01 00:21:00 CET 1518falls asleep
+Thu Jul 01 00:37:00 CET 1518wakes up
+Thu Jul 01 00:50:00 CET 1518falls asleep
+Thu Jul 01 00:56:00 CET 1518wakes up
+Fri Jul 02 00:04:00 CET 1518Guard #1993 begins shift
+Fri Jul 02 00:32:00 CET 1518falls asleep
+Fri Jul 02 00:37:00 CET 1518wakes up
+Fri Jul 02 00:49:00 CET 1518falls asleep
+Fri Jul 02 00:52:00 CET 1518wakes up
+Fri Jul 02 00:56:00 CET 1518falls asleep
+Fri Jul 02 00:58:00 CET 1518wakes up
+Sat Jul 03 00:00:00 CET 1518Guard #743 begins shift
+Sat Jul 03 00:34:00 CET 1518falls asleep
+Sat Jul 03 00:51:00 CET 1518wakes up
+Sat Jul 03 00:55:00 CET 1518falls asleep
+Sat Jul 03 00:58:00 CET 1518wakes up
+Sun Jul 04 00:00:00 CET 1518Guard #3023 begins shift
+Sun Jul 04 00:32:00 CET 1518falls asleep
+Sun Jul 04 00:36:00 CET 1518wakes up
+Sun Jul 04 00:51:00 CET 1518falls asleep
+Sun Jul 04 00:54:00 CET 1518wakes up
+Sun Jul 04 23:56:00 CET 1518Guard #653 begins shift
+Mon Jul 05 00:38:00 CET 1518falls asleep
+Mon Jul 05 00:59:00 CET 1518wakes up
+Mon Jul 05 23:58:00 CET 1518Guard #1153 begins shift
+Wed Jul 07 00:02:00 CET 1518Guard #2843 begins shift
+Wed Jul 07 00:08:00 CET 1518falls asleep
+Wed Jul 07 00:46:00 CET 1518wakes up
+Wed Jul 07 00:56:00 CET 1518falls asleep
+Wed Jul 07 00:57:00 CET 1518wakes up
+Thu Jul 08 00:01:00 CET 1518Guard #1993 begins shift
+Thu Jul 08 00:14:00 CET 1518falls asleep
+Thu Jul 08 00:22:00 CET 1518wakes up
+Fri Jul 09 00:01:00 CET 1518Guard #2719 begins shift
+Fri Jul 09 00:34:00 CET 1518falls asleep
+Fri Jul 09 00:47:00 CET 1518wakes up
+Sat Jul 10 00:01:00 CET 1518Guard #1993 begins shift
+Sat Jul 10 00:39:00 CET 1518falls asleep
+Sat Jul 10 00:56:00 CET 1518wakes up
+Sat Jul 10 23:58:00 CET 1518Guard #1993 begins shift
+Sun Jul 11 00:08:00 CET 1518falls asleep
+Sun Jul 11 00:38:00 CET 1518wakes up
+Sun Jul 11 00:54:00 CET 1518falls asleep
+Sun Jul 11 00:56:00 CET 1518wakes up
+Mon Jul 12 00:00:00 CET 1518Guard #149 begins shift
+Mon Jul 12 00:39:00 CET 1518falls asleep
+Mon Jul 12 00:50:00 CET 1518wakes up
+Tue Jul 13 00:02:00 CET 1518Guard #2719 begins shift
+Tue Jul 13 00:34:00 CET 1518falls asleep
+Tue Jul 13 00:51:00 CET 1518wakes up
+Tue Jul 13 23:56:00 CET 1518Guard #2857 begins shift
+Wed Jul 14 00:11:00 CET 1518falls asleep
+Wed Jul 14 00:52:00 CET 1518wakes up
+Wed Jul 14 23:56:00 CET 1518Guard #2017 begins shift
+Thu Jul 15 00:51:00 CET 1518falls asleep
+Thu Jul 15 00:52:00 CET 1518wakes up
+Fri Jul 16 00:04:00 CET 1518Guard #2927 begins shift
+Fri Jul 16 00:38:00 CET 1518falls asleep
+Fri Jul 16 00:59:00 CET 1518wakes up
+Sat Jul 17 00:00:00 CET 1518Guard #743 begins shift
+Sat Jul 17 00:07:00 CET 1518falls asleep
+Sat Jul 17 00:10:00 CET 1518wakes up
+Sat Jul 17 00:14:00 CET 1518falls asleep
+Sat Jul 17 00:59:00 CET 1518wakes up
+Sun Jul 18 00:00:00 CET 1518Guard #3083 begins shift
+Sun Jul 18 00:12:00 CET 1518falls asleep
+Sun Jul 18 00:58:00 CET 1518wakes up
+Mon Jul 19 00:01:00 CET 1518Guard #2017 begins shift
+Mon Jul 19 00:14:00 CET 1518falls asleep
+Mon Jul 19 00:52:00 CET 1518wakes up
+Tue Jul 20 00:03:00 CET 1518Guard #3011 begins shift
+Tue Jul 20 00:18:00 CET 1518falls asleep
+Tue Jul 20 00:25:00 CET 1518wakes up
+Wed Jul 21 00:01:00 CET 1518Guard #3119 begins shift
+Wed Jul 21 00:14:00 CET 1518falls asleep
+Wed Jul 21 00:53:00 CET 1518wakes up
+Wed Jul 21 23:57:00 CET 1518Guard #149 begins shift
+Thu Jul 22 00:30:00 CET 1518falls asleep
+Thu Jul 22 00:34:00 CET 1518wakes up
+Thu Jul 22 00:50:00 CET 1518falls asleep
+Thu Jul 22 00:56:00 CET 1518wakes up
+Thu Jul 22 23:58:00 CET 1518Guard #3023 begins shift
+Fri Jul 23 00:26:00 CET 1518falls asleep
+Fri Jul 23 00:46:00 CET 1518wakes up
+Fri Jul 23 23:59:00 CET 1518Guard #3083 begins shift
+Sat Jul 24 00:25:00 CET 1518falls asleep
+Sat Jul 24 00:42:00 CET 1518wakes up
+Sat Jul 24 00:46:00 CET 1518falls asleep
+Sat Jul 24 00:50:00 CET 1518wakes up
+Sat Jul 24 23:48:00 CET 1518Guard #149 begins shift
+Sun Jul 25 00:02:00 CET 1518falls asleep
+Sun Jul 25 00:24:00 CET 1518wakes up
+Sun Jul 25 00:29:00 CET 1518falls asleep
+Sun Jul 25 00:37:00 CET 1518wakes up
+Sun Jul 25 23:56:00 CET 1518Guard #149 begins shift
+Mon Jul 26 00:07:00 CET 1518falls asleep
+Mon Jul 26 00:33:00 CET 1518wakes up
+Mon Jul 26 00:49:00 CET 1518falls asleep
+Mon Jul 26 00:59:00 CET 1518wakes up
+Tue Jul 27 00:02:00 CET 1518Guard #2857 begins shift
+Tue Jul 27 00:33:00 CET 1518falls asleep
+Tue Jul 27 00:38:00 CET 1518wakes up
+Wed Jul 28 00:00:00 CET 1518Guard #743 begins shift
+Wed Jul 28 00:17:00 CET 1518falls asleep
+Wed Jul 28 00:28:00 CET 1518wakes up
+Wed Jul 28 00:41:00 CET 1518falls asleep
+Wed Jul 28 00:45:00 CET 1518wakes up
+Wed Jul 28 23:56:00 CET 1518Guard #2857 begins shift
+Thu Jul 29 00:16:00 CET 1518falls asleep
+Thu Jul 29 00:20:00 CET 1518wakes up
+Thu Jul 29 00:34:00 CET 1518falls asleep
+Thu Jul 29 00:59:00 CET 1518wakes up
+Fri Jul 30 00:00:00 CET 1518Guard #3361 begins shift
+Fri Jul 30 00:31:00 CET 1518falls asleep
+Fri Jul 30 00:41:00 CET 1518wakes up
+Fri Jul 30 23:59:00 CET 1518Guard #2719 begins shift
+Sat Jul 31 00:32:00 CET 1518falls asleep
+Sat Jul 31 00:37:00 CET 1518wakes up
+Sun Aug 01 00:04:00 CET 1518Guard #653 begins shift
+Sun Aug 01 00:35:00 CET 1518falls asleep
+Sun Aug 01 00:46:00 CET 1518wakes up
+Sun Aug 01 23:59:00 CET 1518Guard #3119 begins shift
+Mon Aug 02 00:29:00 CET 1518falls asleep
+Mon Aug 02 00:41:00 CET 1518wakes up
+Mon Aug 02 00:49:00 CET 1518falls asleep
+Mon Aug 02 00:58:00 CET 1518wakes up
+Mon Aug 02 23:50:00 CET 1518Guard #1657 begins shift
+Tue Aug 03 00:00:00 CET 1518falls asleep
+Tue Aug 03 00:22:00 CET 1518wakes up
+Tue Aug 03 23:50:00 CET 1518Guard #2843 begins shift
+Wed Aug 04 00:04:00 CET 1518falls asleep
+Wed Aug 04 00:36:00 CET 1518wakes up
+Wed Aug 04 23:57:00 CET 1518Guard #2027 begins shift
+Thu Aug 05 00:06:00 CET 1518falls asleep
+Thu Aug 05 00:22:00 CET 1518wakes up
+Fri Aug 06 00:01:00 CET 1518Guard #149 begins shift
+Fri Aug 06 00:18:00 CET 1518falls asleep
+Fri Aug 06 00:34:00 CET 1518wakes up
+Fri Aug 06 00:44:00 CET 1518falls asleep
+Fri Aug 06 00:47:00 CET 1518wakes up
+Fri Aug 06 23:57:00 CET 1518Guard #1993 begins shift
+Sat Aug 07 00:06:00 CET 1518falls asleep
+Sat Aug 07 00:48:00 CET 1518wakes up
+Sat Aug 07 23:57:00 CET 1518Guard #3089 begins shift
+Sun Aug 08 00:08:00 CET 1518falls asleep
+Sun Aug 08 00:33:00 CET 1518wakes up
+Sun Aug 08 00:53:00 CET 1518falls asleep
+Sun Aug 08 00:57:00 CET 1518wakes up
+Sun Aug 08 23:58:00 CET 1518Guard #563 begins shift
+Mon Aug 09 23:56:00 CET 1518Guard #3119 begins shift
+Tue Aug 10 00:08:00 CET 1518falls asleep
+Tue Aug 10 00:18:00 CET 1518wakes up
+Tue Aug 10 00:21:00 CET 1518falls asleep
+Tue Aug 10 00:51:00 CET 1518wakes up
+Wed Aug 11 00:04:00 CET 1518Guard #1163 begins shift
+Wed Aug 11 00:14:00 CET 1518falls asleep
+Wed Aug 11 00:31:00 CET 1518wakes up
+Wed Aug 11 00:43:00 CET 1518falls asleep
+Wed Aug 11 00:54:00 CET 1518wakes up
+Wed Aug 11 23:59:00 CET 1518Guard #3023 begins shift
+Thu Aug 12 00:32:00 CET 1518falls asleep
+Thu Aug 12 00:39:00 CET 1518wakes up
+Fri Aug 13 00:01:00 CET 1518Guard #2927 begins shift
+Fri Aug 13 00:07:00 CET 1518falls asleep
+Fri Aug 13 00:22:00 CET 1518wakes up
+Fri Aug 13 23:47:00 CET 1518Guard #2027 begins shift
+Sat Aug 14 00:03:00 CET 1518falls asleep
+Sat Aug 14 00:39:00 CET 1518wakes up
+Sat Aug 14 00:47:00 CET 1518falls asleep
+Sat Aug 14 00:52:00 CET 1518wakes up
+Sat Aug 14 23:59:00 CET 1518Guard #2843 begins shift
+Sun Aug 15 00:29:00 CET 1518falls asleep
+Sun Aug 15 00:47:00 CET 1518wakes up
+Sun Aug 15 00:52:00 CET 1518falls asleep
+Sun Aug 15 00:53:00 CET 1518wakes up
+Mon Aug 16 00:04:00 CET 1518Guard #149 begins shift
+Mon Aug 16 00:14:00 CET 1518falls asleep
+Mon Aug 16 00:49:00 CET 1518wakes up
+Tue Aug 17 00:00:00 CET 1518Guard #3023 begins shift
+Tue Aug 17 00:25:00 CET 1518falls asleep
+Tue Aug 17 00:57:00 CET 1518wakes up
+Tue Aug 17 23:59:00 CET 1518Guard #743 begins shift
+Wed Aug 18 00:22:00 CET 1518falls asleep
+Wed Aug 18 00:41:00 CET 1518wakes up
+Wed Aug 18 00:53:00 CET 1518falls asleep
+Wed Aug 18 00:55:00 CET 1518wakes up
+Thu Aug 19 00:00:00 CET 1518Guard #2843 begins shift
+Thu Aug 19 00:19:00 CET 1518falls asleep
+Thu Aug 19 00:24:00 CET 1518wakes up
+Thu Aug 19 23:57:00 CET 1518Guard #2843 begins shift
+Fri Aug 20 00:34:00 CET 1518falls asleep
+Fri Aug 20 00:39:00 CET 1518wakes up
+Sat Aug 21 00:00:00 CET 1518Guard #1993 begins shift
+Sat Aug 21 00:29:00 CET 1518falls asleep
+Sat Aug 21 00:53:00 CET 1518wakes up
+Sat Aug 21 23:50:00 CET 1518Guard #2927 begins shift
+Sun Aug 22 00:04:00 CET 1518falls asleep
+Sun Aug 22 00:09:00 CET 1518wakes up
+Mon Aug 23 00:02:00 CET 1518Guard #2719 begins shift
+Mon Aug 23 00:34:00 CET 1518falls asleep
+Mon Aug 23 00:39:00 CET 1518wakes up
+Mon Aug 23 00:50:00 CET 1518falls asleep
+Mon Aug 23 00:57:00 CET 1518wakes up
+Mon Aug 23 23:53:00 CET 1518Guard #2927 begins shift
+Tue Aug 24 00:00:00 CET 1518falls asleep
+Tue Aug 24 00:24:00 CET 1518wakes up
+Tue Aug 24 00:34:00 CET 1518falls asleep
+Tue Aug 24 00:40:00 CET 1518wakes up
+Wed Aug 25 00:02:00 CET 1518Guard #3011 begins shift
+Wed Aug 25 00:14:00 CET 1518falls asleep
+Wed Aug 25 00:44:00 CET 1518wakes up
+Wed Aug 25 00:52:00 CET 1518falls asleep
+Wed Aug 25 00:53:00 CET 1518wakes up
+Thu Aug 26 00:03:00 CET 1518Guard #2719 begins shift
+Thu Aug 26 00:17:00 CET 1518falls asleep
+Thu Aug 26 00:47:00 CET 1518wakes up
+Fri Aug 27 00:04:00 CET 1518Guard #3011 begins shift
+Fri Aug 27 00:35:00 CET 1518falls asleep
+Fri Aug 27 00:45:00 CET 1518wakes up
+Fri Aug 27 23:48:00 CET 1518Guard #1657 begins shift
+Sat Aug 28 00:03:00 CET 1518falls asleep
+Sat Aug 28 00:08:00 CET 1518wakes up
+Sun Aug 29 00:04:00 CET 1518Guard #881 begins shift
+Sun Aug 29 00:15:00 CET 1518falls asleep
+Sun Aug 29 00:26:00 CET 1518wakes up
+Sun Aug 29 00:55:00 CET 1518falls asleep
+Sun Aug 29 00:56:00 CET 1518wakes up
+Mon Aug 30 00:00:00 CET 1518Guard #2843 begins shift
+Mon Aug 30 00:25:00 CET 1518falls asleep
+Mon Aug 30 00:43:00 CET 1518wakes up
+Mon Aug 30 23:58:00 CET 1518Guard #3361 begins shift
+Tue Aug 31 00:10:00 CET 1518falls asleep
+Tue Aug 31 00:52:00 CET 1518wakes up
+Wed Sep 01 00:01:00 CET 1518Guard #1657 begins shift
+Wed Sep 01 00:21:00 CET 1518falls asleep
+Wed Sep 01 00:43:00 CET 1518wakes up
+Wed Sep 01 00:52:00 CET 1518falls asleep
+Wed Sep 01 00:53:00 CET 1518wakes up
+Wed Sep 01 00:57:00 CET 1518falls asleep
+Wed Sep 01 00:58:00 CET 1518wakes up
+Thu Sep 02 00:00:00 CET 1518Guard #3011 begins shift
+Thu Sep 02 00:08:00 CET 1518falls asleep
+Thu Sep 02 00:58:00 CET 1518wakes up
+Thu Sep 02 23:47:00 CET 1518Guard #1993 begins shift
+Fri Sep 03 00:01:00 CET 1518falls asleep
+Fri Sep 03 00:22:00 CET 1518wakes up
+Fri Sep 03 00:30:00 CET 1518falls asleep
+Fri Sep 03 00:50:00 CET 1518wakes up
+Sat Sep 04 00:03:00 CET 1518Guard #3023 begins shift
+Sat Sep 04 00:10:00 CET 1518falls asleep
+Sat Sep 04 00:52:00 CET 1518wakes up
+Sun Sep 05 00:00:00 CET 1518Guard #3023 begins shift
+Sun Sep 05 00:18:00 CET 1518falls asleep
+Sun Sep 05 00:28:00 CET 1518wakes up
+Sun Sep 05 00:36:00 CET 1518falls asleep
+Sun Sep 05 00:59:00 CET 1518wakes up
+Sun Sep 05 23:50:00 CET 1518Guard #2017 begins shift
+Mon Sep 06 00:02:00 CET 1518falls asleep
+Mon Sep 06 00:15:00 CET 1518wakes up
+Mon Sep 06 00:34:00 CET 1518falls asleep
+Mon Sep 06 00:52:00 CET 1518wakes up
+Tue Sep 07 00:02:00 CET 1518Guard #2017 begins shift
+Tue Sep 07 00:08:00 CET 1518falls asleep
+Tue Sep 07 00:13:00 CET 1518wakes up
+Tue Sep 07 00:45:00 CET 1518falls asleep
+Tue Sep 07 00:57:00 CET 1518wakes up
+Tue Sep 07 23:52:00 CET 1518Guard #149 begins shift
+Wed Sep 08 00:04:00 CET 1518falls asleep
+Wed Sep 08 00:43:00 CET 1518wakes up
+Wed Sep 08 23:58:00 CET 1518Guard #1163 begins shift
+Thu Sep 09 00:09:00 CET 1518falls asleep
+Thu Sep 09 00:44:00 CET 1518wakes up
+Fri Sep 10 00:02:00 CET 1518Guard #2017 begins shift
+Fri Sep 10 00:21:00 CET 1518falls asleep
+Fri Sep 10 00:55:00 CET 1518wakes up
+Sat Sep 11 00:00:00 CET 1518Guard #3011 begins shift
+Sat Sep 11 00:35:00 CET 1518falls asleep
+Sat Sep 11 00:50:00 CET 1518wakes up
+Sat Sep 11 00:53:00 CET 1518falls asleep
+Sat Sep 11 00:54:00 CET 1518wakes up
+Sat Sep 11 23:52:00 CET 1518Guard #1163 begins shift
+Sun Sep 12 00:00:00 CET 1518falls asleep
+Sun Sep 12 00:57:00 CET 1518wakes up
+Sun Sep 12 23:56:00 CET 1518Guard #653 begins shift
+Mon Sep 13 00:36:00 CET 1518falls asleep
+Mon Sep 13 00:55:00 CET 1518wakes up
+Tue Sep 14 00:00:00 CET 1518Guard #3119 begins shift
+Tue Sep 14 00:29:00 CET 1518falls asleep
+Tue Sep 14 00:59:00 CET 1518wakes up
+Wed Sep 15 00:04:00 CET 1518Guard #2719 begins shift
+Wed Sep 15 00:09:00 CET 1518falls asleep
+Wed Sep 15 00:43:00 CET 1518wakes up
+Wed Sep 15 23:57:00 CET 1518Guard #3023 begins shift
+Thu Sep 16 00:28:00 CET 1518falls asleep
+Thu Sep 16 00:42:00 CET 1518wakes up
+Thu Sep 16 23:58:00 CET 1518Guard #659 begins shift
+Sat Sep 18 00:00:00 CET 1518Guard #3119 begins shift
+Sat Sep 18 00:09:00 CET 1518falls asleep
+Sat Sep 18 00:25:00 CET 1518wakes up
+Sat Sep 18 00:48:00 CET 1518falls asleep
+Sat Sep 18 00:54:00 CET 1518wakes up
+Sun Sep 19 00:00:00 CET 1518Guard #2027 begins shift
+Sun Sep 19 00:39:00 CET 1518falls asleep
+Sun Sep 19 00:40:00 CET 1518wakes up
+Sun Sep 19 00:47:00 CET 1518falls asleep
+Sun Sep 19 00:58:00 CET 1518wakes up
+Sun Sep 19 23:58:00 CET 1518Guard #1013 begins shift
+Mon Sep 20 00:40:00 CET 1518falls asleep
+Mon Sep 20 00:46:00 CET 1518wakes up
+Mon Sep 20 23:57:00 CET 1518Guard #743 begins shift
+Tue Sep 21 00:17:00 CET 1518falls asleep
+Tue Sep 21 00:21:00 CET 1518wakes up
+Wed Sep 22 00:04:00 CET 1518Guard #1013 begins shift
+Wed Sep 22 00:39:00 CET 1518falls asleep
+Wed Sep 22 00:47:00 CET 1518wakes up
+Thu Sep 23 00:01:00 CET 1518Guard #881 begins shift
+Thu Sep 23 00:17:00 CET 1518falls asleep
+Thu Sep 23 00:51:00 CET 1518wakes up
+Thu Sep 23 00:54:00 CET 1518falls asleep
+Thu Sep 23 00:56:00 CET 1518wakes up
+Thu Sep 23 23:53:00 CET 1518Guard #2027 begins shift
+Fri Sep 24 00:04:00 CET 1518falls asleep
+Fri Sep 24 00:16:00 CET 1518wakes up
+Fri Sep 24 00:57:00 CET 1518falls asleep
+Fri Sep 24 00:59:00 CET 1518wakes up
+Sat Sep 25 00:00:00 CET 1518Guard #1163 begins shift
+Sat Sep 25 00:22:00 CET 1518falls asleep
+Sat Sep 25 00:42:00 CET 1518wakes up
+Sun Sep 26 00:00:00 CET 1518Guard #1657 begins shift
+Sun Sep 26 00:15:00 CET 1518falls asleep
+Sun Sep 26 00:18:00 CET 1518wakes up
+Sun Sep 26 00:27:00 CET 1518falls asleep
+Sun Sep 26 00:52:00 CET 1518wakes up
+Sun Sep 26 00:57:00 CET 1518falls asleep
+Sun Sep 26 00:58:00 CET 1518wakes up
+Sun Sep 26 23:58:00 CET 1518Guard #1163 begins shift
+Mon Sep 27 00:08:00 CET 1518falls asleep
+Mon Sep 27 00:38:00 CET 1518wakes up
+Mon Sep 27 00:42:00 CET 1518falls asleep
+Mon Sep 27 00:49:00 CET 1518wakes up
+Mon Sep 27 23:59:00 CET 1518Guard #3119 begins shift
+Tue Sep 28 00:31:00 CET 1518falls asleep
+Tue Sep 28 00:57:00 CET 1518wakes up
+Wed Sep 29 00:03:00 CET 1518Guard #563 begins shift
+Thu Sep 30 00:01:00 CET 1518Guard #1993 begins shift
+Thu Sep 30 00:09:00 CET 1518falls asleep
+Thu Sep 30 00:11:00 CET 1518wakes up
+Thu Sep 30 00:37:00 CET 1518falls asleep
+Thu Sep 30 00:41:00 CET 1518wakes up
+Fri Oct 01 00:03:00 CET 1518Guard #2857 begins shift
+Fri Oct 01 00:26:00 CET 1518falls asleep
+Fri Oct 01 00:31:00 CET 1518wakes up
+Fri Oct 01 23:47:00 CET 1518Guard #1657 begins shift
+Sat Oct 02 00:00:00 CET 1518falls asleep
+Sat Oct 02 00:32:00 CET 1518wakes up
+Sun Oct 03 00:03:00 CET 1518Guard #743 begins shift
+Sun Oct 03 00:07:00 CET 1518falls asleep
+Sun Oct 03 00:34:00 CET 1518wakes up
+Mon Oct 04 00:01:00 CET 1518Guard #1013 begins shift
+Mon Oct 04 00:09:00 CET 1518falls asleep
+Mon Oct 04 00:44:00 CET 1518wakes up
+Tue Oct 05 00:00:00 CET 1518Guard #1013 begins shift
+Tue Oct 05 00:17:00 CET 1518falls asleep
+Tue Oct 05 00:46:00 CET 1518wakes up
+Tue Oct 05 00:53:00 CET 1518falls asleep
+Tue Oct 05 00:59:00 CET 1518wakes up
+Tue Oct 05 23:57:00 CET 1518Guard #3023 begins shift
+Wed Oct 06 00:18:00 CET 1518falls asleep
+Wed Oct 06 00:40:00 CET 1518wakes up
+Wed Oct 06 00:52:00 CET 1518falls asleep
+Wed Oct 06 00:54:00 CET 1518wakes up
+Thu Oct 07 00:02:00 CET 1518Guard #1163 begins shift
+Thu Oct 07 00:30:00 CET 1518falls asleep
+Thu Oct 07 00:59:00 CET 1518wakes up
+Fri Oct 08 00:00:00 CET 1518Guard #1657 begins shift
+Fri Oct 08 00:18:00 CET 1518falls asleep
+Fri Oct 08 00:25:00 CET 1518wakes up
+Fri Oct 08 00:31:00 CET 1518falls asleep
+Fri Oct 08 00:34:00 CET 1518wakes up
+Fri Oct 08 00:39:00 CET 1518falls asleep
+Fri Oct 08 00:52:00 CET 1518wakes up
+Sat Oct 09 00:03:00 CET 1518Guard #1657 begins shift
+Sat Oct 09 00:09:00 CET 1518falls asleep
+Sat Oct 09 00:49:00 CET 1518wakes up
+Sun Oct 10 00:00:00 CET 1518Guard #3361 begins shift
+Sun Oct 10 00:39:00 CET 1518falls asleep
+Sun Oct 10 00:54:00 CET 1518wakes up
+Mon Oct 11 00:04:00 CET 1518Guard #2927 begins shift
+Mon Oct 11 00:17:00 CET 1518falls asleep
+Mon Oct 11 00:50:00 CET 1518wakes up
+Tue Oct 12 00:00:00 CET 1518Guard #3119 begins shift
+Tue Oct 12 00:46:00 CET 1518falls asleep
+Tue Oct 12 00:54:00 CET 1518wakes up
+Tue Oct 12 23:53:00 CET 1518Guard #653 begins shift
+Wed Oct 13 00:00:00 CET 1518falls asleep
+Wed Oct 13 00:35:00 CET 1518wakes up
+Wed Oct 13 00:50:00 CET 1518falls asleep
+Wed Oct 13 00:59:00 CET 1518wakes up
+Thu Oct 14 00:00:00 CET 1518Guard #2027 begins shift
+Thu Oct 14 00:16:00 CET 1518falls asleep
+Thu Oct 14 00:58:00 CET 1518wakes up
+Fri Oct 15 00:00:00 CET 1518Guard #2027 begins shift
+Fri Oct 15 00:10:00 CET 1518falls asleep
+Fri Oct 15 00:53:00 CET 1518wakes up
+Sat Oct 16 00:00:00 CET 1518Guard #659 begins shift
+Sat Oct 16 23:53:00 CET 1518Guard #2843 begins shift
+Sun Oct 17 00:05:00 CET 1518falls asleep
+Sun Oct 17 00:19:00 CET 1518wakes up
+Mon Oct 18 00:03:00 CET 1518Guard #2027 begins shift
+Mon Oct 18 00:11:00 CET 1518falls asleep
+Mon Oct 18 00:26:00 CET 1518wakes up
+Mon Oct 18 00:36:00 CET 1518falls asleep
+Mon Oct 18 00:38:00 CET 1518wakes up
+Mon Oct 18 00:45:00 CET 1518falls asleep
+Mon Oct 18 00:48:00 CET 1518wakes up
+Tue Oct 19 00:00:00 CET 1518Guard #3023 begins shift
+Tue Oct 19 00:20:00 CET 1518falls asleep
+Tue Oct 19 00:45:00 CET 1518wakes up
+Wed Oct 20 00:04:00 CET 1518Guard #1163 begins shift
+Wed Oct 20 00:12:00 CET 1518falls asleep
+Wed Oct 20 00:26:00 CET 1518wakes up
+Thu Oct 21 00:03:00 CET 1518Guard #3023 begins shift
+Thu Oct 21 00:23:00 CET 1518falls asleep
+Thu Oct 21 00:57:00 CET 1518wakes up
+Thu Oct 21 23:47:00 CET 1518Guard #743 begins shift
+Fri Oct 22 00:03:00 CET 1518falls asleep
+Fri Oct 22 00:29:00 CET 1518wakes up
+Fri Oct 22 00:36:00 CET 1518falls asleep
+Fri Oct 22 00:44:00 CET 1518wakes up
+Sat Oct 23 00:00:00 CET 1518Guard #2027 begins shift
+Sat Oct 23 00:18:00 CET 1518falls asleep
+Sat Oct 23 00:34:00 CET 1518wakes up
+Sat Oct 23 23:57:00 CET 1518Guard #1153 begins shift
+Sun Oct 24 23:51:00 CET 1518Guard #149 begins shift
+Mon Oct 25 00:05:00 CET 1518falls asleep
+Mon Oct 25 00:41:00 CET 1518wakes up
+Mon Oct 25 00:49:00 CET 1518falls asleep
+Mon Oct 25 00:54:00 CET 1518wakes up
+Mon Oct 25 23:47:00 CET 1518Guard #3023 begins shift
+Tue Oct 26 00:00:00 CET 1518falls asleep
+Tue Oct 26 00:38:00 CET 1518wakes up
+Tue Oct 26 00:54:00 CET 1518falls asleep
+Tue Oct 26 00:58:00 CET 1518wakes up
+Wed Oct 27 00:04:00 CET 1518Guard #149 begins shift
+Wed Oct 27 00:37:00 CET 1518falls asleep
+Wed Oct 27 00:51:00 CET 1518wakes up
+Thu Oct 28 00:02:00 CET 1518Guard #2719 begins shift
+Thu Oct 28 00:35:00 CET 1518falls asleep
+Thu Oct 28 00:40:00 CET 1518wakes up
+Thu Oct 28 00:50:00 CET 1518falls asleep
+Thu Oct 28 00:56:00 CET 1518wakes up
+Fri Oct 29 00:04:00 CET 1518Guard #1163 begins shift
+Fri Oct 29 00:11:00 CET 1518falls asleep
+Fri Oct 29 00:23:00 CET 1518wakes up
+Fri Oct 29 00:51:00 CET 1518falls asleep
+Fri Oct 29 00:52:00 CET 1518wakes up
+Fri Oct 29 23:58:00 CET 1518Guard #3119 begins shift
+Sat Oct 30 00:24:00 CET 1518falls asleep
+Sat Oct 30 00:40:00 CET 1518wakes up
+Sat Oct 30 00:50:00 CET 1518falls asleep
+Sat Oct 30 00:56:00 CET 1518wakes up
+Sat Oct 30 23:52:00 CET 1518Guard #2843 begins shift
+Sun Oct 31 00:01:00 CET 1518falls asleep
+Sun Oct 31 00:21:00 CET 1518wakes up
+Sun Oct 31 23:59:00 CET 1518Guard #2927 begins shift
+Mon Nov 01 00:46:00 CET 1518falls asleep
+Mon Nov 01 00:59:00 CET 1518wakes up
+Tue Nov 02 00:04:00 CET 1518Guard #2857 begins shift
+Tue Nov 02 00:12:00 CET 1518falls asleep
+Tue Nov 02 00:55:00 CET 1518wakes up
+Tue Nov 02 23:56:00 CET 1518Guard #659 begins shift
+Wed Nov 03 23:58:00 CET 1518Guard #881 begins shift
+Thu Nov 04 00:08:00 CET 1518falls asleep
+Thu Nov 04 00:39:00 CET 1518wakes up
+Fri Nov 05 00:00:00 CET 1518Guard #149 begins shift
+Fri Nov 05 00:29:00 CET 1518falls asleep
+Fri Nov 05 00:57:00 CET 1518wakes up
+Fri Nov 05 23:57:00 CET 1518Guard #3119 begins shift
+Sat Nov 06 00:28:00 CET 1518falls asleep
+Sat Nov 06 00:41:00 CET 1518wakes up
+Sat Nov 06 00:48:00 CET 1518falls asleep
+Sat Nov 06 00:58:00 CET 1518wakes up
+Sun Nov 07 00:02:00 CET 1518Guard #149 begins shift
+Sun Nov 07 00:09:00 CET 1518falls asleep
+Sun Nov 07 00:13:00 CET 1518wakes up
+Sun Nov 07 23:58:00 CET 1518Guard #3119 begins shift
+Mon Nov 08 00:30:00 CET 1518falls asleep
+Mon Nov 08 00:52:00 CET 1518wakes up
+Tue Nov 09 00:02:00 CET 1518Guard #3011 begins shift
+Tue Nov 09 00:30:00 CET 1518falls asleep
+Tue Nov 09 00:57:00 CET 1518wakes up
+Tue Nov 09 23:58:00 CET 1518Guard #881 begins shift
+Wed Nov 10 00:21:00 CET 1518falls asleep
+Wed Nov 10 00:45:00 CET 1518wakes up
+Thu Nov 11 00:00:00 CET 1518Guard #743 begins shift
+Thu Nov 11 00:18:00 CET 1518falls asleep
+Thu Nov 11 00:42:00 CET 1518wakes up
+Thu Nov 11 00:53:00 CET 1518falls asleep
+Thu Nov 11 00:57:00 CET 1518wakes up
+Fri Nov 12 00:00:00 CET 1518Guard #3011 begins shift
+Fri Nov 12 00:30:00 CET 1518falls asleep
+Fri Nov 12 00:45:00 CET 1518wakes up
+Fri Nov 12 23:48:00 CET 1518Guard #3119 begins shift
+Sat Nov 13 00:02:00 CET 1518falls asleep
+Sat Nov 13 00:13:00 CET 1518wakes up
+Sat Nov 13 00:17:00 CET 1518falls asleep
+Sat Nov 13 00:41:00 CET 1518wakes up
+Sat Nov 13 00:44:00 CET 1518falls asleep
+Sat Nov 13 00:49:00 CET 1518wakes up
+Sun Nov 14 00:04:00 CET 1518Guard #743 begins shift
+Sun Nov 14 00:08:00 CET 1518falls asleep
+Sun Nov 14 00:26:00 CET 1518wakes up
+Sun Nov 14 23:57:00 CET 1518Guard #2017 begins shift
+Mon Nov 15 00:31:00 CET 1518falls asleep
+Mon Nov 15 00:51:00 CET 1518wakes up
+Tue Nov 16 00:00:00 CET 1518Guard #2027 begins shift
+Tue Nov 16 00:08:00 CET 1518falls asleep
+Tue Nov 16 00:19:00 CET 1518wakes up
+Wed Nov 17 00:00:00 CET 1518Guard #1993 begins shift
+Wed Nov 17 00:08:00 CET 1518falls asleep
+Wed Nov 17 00:11:00 CET 1518wakes up
+Wed Nov 17 00:23:00 CET 1518falls asleep
+Wed Nov 17 00:39:00 CET 1518wakes up
+Wed Nov 17 00:47:00 CET 1518falls asleep
+Wed Nov 17 00:53:00 CET 1518wakes up
+Thu Nov 18 00:02:00 CET 1518Guard #3011 begins shift
+Thu Nov 18 00:15:00 CET 1518falls asleep
+Thu Nov 18 00:41:00 CET 1518wakes up
+Thu Nov 18 00:44:00 CET 1518falls asleep
+Thu Nov 18 00:47:00 CET 1518wakes up
+Thu Nov 18 00:54:00 CET 1518falls asleep
+Thu Nov 18 00:56:00 CET 1518wakes up
+Fri Nov 19 00:00:00 CET 1518Guard #659 begins shift
+Fri Nov 19 23:57:00 CET 1518Guard #1013 begins shift
+Sat Nov 20 00:21:00 CET 1518falls asleep
+Sat Nov 20 00:36:00 CET 1518wakes up
+Sat Nov 20 00:50:00 CET 1518falls asleep
+Sat Nov 20 00:55:00 CET 1518wakes up
+Sat Nov 20 23:46:00 CET 1518Guard #3361 begins shift
+Sun Nov 21 00:00:00 CET 1518falls asleep
+Sun Nov 21 00:14:00 CET 1518wakes up
+Sun Nov 21 23:51:00 CET 1518Guard #1013 begins shift
+Mon Nov 22 00:04:00 CET 1518falls asleep
+Mon Nov 22 00:06:00 CET 1518wakes up
+Mon Nov 22 00:19:00 CET 1518falls asleep
+Mon Nov 22 00:40:00 CET 1518wakes up
+Mon Nov 22 00:49:00 CET 1518falls asleep
+Mon Nov 22 00:51:00 CET 1518wakes up
+Mon Nov 22 23:58:00 CET 1518Guard #2719 begins shift
+Tue Nov 23 00:22:00 CET 1518falls asleep
+Tue Nov 23 00:32:00 CET 1518wakes up
+Tue Nov 23 00:37:00 CET 1518falls asleep
+Tue Nov 23 00:41:00 CET 1518wakes up
